@@ -1,0 +1,337 @@
+[02:00:27.332] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.351] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.376] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.405] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.453] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.477] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.487] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.498] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.511] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.524] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.536] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.547] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.559] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.584] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.594] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.606] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.630] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.670] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.683] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.700] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.712] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.726] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.758] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.773] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:27.781] Server  WARN    Error: Failed to persist Chrome DevTools workspace UUID. The Chrome DevTools Workspace needs to be reconnected after the next page reload.
+[02:00:36.283] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:36.295] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:36.302] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:36.313] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.184] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.191] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.198] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.206] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.626] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.641] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.654] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.661] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.855] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.862] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.869] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:37.875] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:38.886] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:38.893] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:38.900] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:38.906] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:39.663] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:39.670] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:39.677] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
+[02:00:39.687] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/router-server.js
+- /Users/melody.choudhury/Desktop/craft-demo-full/frontend/node_modules/next/dist/server/lib/start-server.js
